@@ -1,2 +1,1 @@
-# Social-Networks-and-Text-Analysis
-Course assignment on social networks and text analysis
+这是西安交通大学 社交网络与文本分析的结课大作业，数据集是从kaggle上获得的，请大家多指正
