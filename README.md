@@ -14,6 +14,6 @@ yyx_report：latex模版
 
 HW5.ipynb & code.ipynb：实现这些的代码
 
-chinese_sentiment_dictionary-master.zip：停用词的代码
+chinese_sentiment_dictionary-master.zip：停用词的字典
 
 杨雨潇_2201111610_社交网络与文本分析.pdf：最终的报告呈现
